@@ -1,0 +1,15 @@
+.intro{
+color: #00bcd4;
+font-family: 'IBM Plex Sans', sans-serif;
+font-size: 50px;
+}
+
+.photo {
+  width: 160px;
+    height: 160px;
+}
+
+.element{
+  display: inline;
+  font-weight: 500;
+}

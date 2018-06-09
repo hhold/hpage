@@ -33,6 +33,15 @@ margin-top: 17%;
 
 }
 
+.htxt{
+  color:green;
+  font-size: 25px;
+  font-family: 'IBM Plex Mono', monospace;
+  text-align: center;
+  overflow: inline;
+
+}
+
 @media (max-width: 600px){
     .hlogo h1 {
       font-size: 80px;
