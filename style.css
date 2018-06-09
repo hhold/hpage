@@ -35,7 +35,8 @@ margin-top: 17%;
 
 @media (max-width: 600px){
     .hlogo h1 {
-      font-size: 70px;
+      font-size: 80px;
       font-family: arial;
+      font-weight: bolder;
  }
 }
