@@ -38,5 +38,6 @@ margin-top: 17%;
       font-size: 80px;
       font-family: arial;
       font-weight: bolder;
+      animation: animate 16s linear infinite;
  }
 }
