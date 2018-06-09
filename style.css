@@ -27,7 +27,10 @@ body, h1{
         }
       }
 
+.soc{
+text-align: center;
 
+}
 
 .hlogo{
 text-align: center;
@@ -35,20 +38,16 @@ margin-top: 17%;
 
 }
 
-.part{
-  margin: 0;
-  padding: 0;
-  height: inherit;
-}
 
 .htxt{
   color:green;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'IBM Plex Mono', monospace;
   text-align: center;
   overflow: inline;
 
 }
+
 
 @media (max-width: 600px){
     .hlogo h1 {
