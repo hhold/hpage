@@ -1,0 +1,33 @@
+
+body, h1{
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+}
+
+.hlogo h1 {
+  font-size: 150px;
+  font-family: arial;
+  color: rgba(225,225,225,.1);
+  background-image: url(i5.jpg);
+  background-repeat: repeat-x;
+  -webkit-background-clip: text;
+  animation: animate 12s linear infinite;
+
+}
+
+      @keyframes animate {
+        0%{
+          background-position: left 0px top 10px;
+        }
+        40%{
+          background-position: left 800px top 10px;
+        }
+      }
+
+
+
+.hlogo{
+text-align: center;
+margin-top: 17%;
+}
