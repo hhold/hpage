@@ -5,14 +5,14 @@ body, h1{
   background-color: #000;
 }
 
-.hlogo h1 {
+.hlogo, h1 {
   font-size: 150px;
   font-family: arial;
   color: rgba(225,225,225,.1);
   background-image: url(i5.jpg);
   background-repeat: repeat-x;
   -webkit-background-clip: text;
-  animation: animate 12s linear infinite;
+  animation: animate 14s linear infinite;
 
 }
 
@@ -30,4 +30,12 @@ body, h1{
 .hlogo{
 text-align: center;
 margin-top: 17%;
+
+}
+
+@media (max-width: 600px){
+    .hlogo h1 {
+      font-size: 70px;
+      font-family: arial;
+ }
 }
