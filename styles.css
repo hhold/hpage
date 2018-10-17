@@ -36,12 +36,3 @@
   font-size: 20px;
   font-family: 'Product Sans Bold';
 }
-
-@media screen and (max-width: 600px) {
-.hd {
-  font-size: 30px;
-}
-.txt{
-  font-size: 12px;
-}
-}
