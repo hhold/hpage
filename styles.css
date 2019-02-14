@@ -27,7 +27,7 @@
 }
 
 .hd{
-  color: #00b0ff;
+  color: black;
   font-family: 'Product Sans Bold';
   padding-bottom: 2em;
 }
@@ -35,4 +35,13 @@
 .txt{
   font-size: 20px;
   font-family: 'Product Sans Bold';
+}
+
+.picimg{
+
+  display: block;
+  max-width:230px;
+  max-height:95px;
+  width: auto;
+  height: auto;
 }
